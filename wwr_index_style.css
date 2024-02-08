@@ -1,0 +1,129 @@
+content {
+    max-width: 1600px;
+    margin: 0 auto;
+}
+
+.home-title{
+    font-family: 'Arial', 'Helvetica', 'sans-serif';
+    font-size: 2em;
+}
+
+body {
+    font-family: Arial, sans-serif;
+    font-size: 22px;
+    margin: 0;
+    padding: 0;
+}
+h2 {
+    margin: 0;
+}
+
+nav a{
+    text-align: center;
+    text-decoration: none;
+    padding: 35px;
+    color: navy;
+}
+
+#hero-msg h1{
+    text-align: center;
+}
+
+#hero-msg h4{
+    text-align: center;
+}
+
+.button-box{
+    text-align: center;
+}
+
+main section{
+    text-align: center;
+}
+
+#background {
+    height: 725px;
+}
+
+body {
+    background-color: #fcfbfb; 
+}
+
+header {
+    background-color:cyan;
+}
+
+nav a:hover {
+    background-color: yellow;
+    text-decoration: underline;
+}
+
+.book {
+    background-color: white;
+    text-decoration: none;
+    font-size: 18px;
+    padding: 15px;
+    margin-top: 50px;
+    border-radius: 5px;
+}
+
+.join {
+    background-color: cyan;
+    text-decoration: none;
+    font-size: 20px;
+    margin-top: 50px;
+    border-radius: 5px;
+}
+
+.book:hover{
+    background-color: yellow;
+    text-decoration: underline;
+}
+
+.join:hover{
+    background-color: yellow;
+    text-decoration: underline;
+}
+
+.msg{
+    background-color: cyan;
+    line-height: 1.5em;
+}
+
+footer{
+    background-color: cyan;
+}
+
+footer p{
+    font-size: 1.2em;
+    text-align: center;
+}
+
+footer p a:hover {
+    text-decoration: underline;
+}
+
+.icon{
+    width: 80px;
+}
+
+.card-img{
+    border: 10px solid black;
+
+}
+
+main section img {
+    box-sizing: border-box;
+}
+
+.sp{
+    background-color: cyan;
+    text-decoration: none;
+    text-align: center;
+}
+
+.cu{
+    background-color: cyan;
+    text-decoration: none;
+    text-align: center;
+}
